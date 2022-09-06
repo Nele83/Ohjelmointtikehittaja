@@ -1,0 +1,21 @@
+# Ohjelmointtikehittaja
+Harjoitukset
+/* Kirjoita ohjelma, joka pyytää sanaa käyttäjältä ja vaihtaa sanan ensimmäisen ja
+viimeisen kirjaimen keskenään, esim Jyri → iyrJ tai Lindroos → sindrooL */
+
+string sana, sana1;
+int mitta;
+Console.Clear();
+Console.WriteLine("Harjoitus E tehtävä 13");
+Console.WriteLine("Nele Neuhof\n");
+Console.WriteLine("Ole hyvä ja kirjoita jokin sana! \n");
+sana = Console.ReadLine();
+mitta = sana.Length;
+char[] taulu = new char[mitta];
+
+for (int i = 0; i < mitta; i++)
+    taulu[i] = sana[i];
+taulu[0] = sana[mitta - 1];
+taulu[mitta - 1] = sana[0];
+sana1 = String.Join("", taulu);
+Console.WriteLine("Antamasi sana {0} on muutettu {1}", sana, sana1);
