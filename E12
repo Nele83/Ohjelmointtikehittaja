@@ -1,0 +1,38 @@
+# Ohjelmointtikehittaja
+Harjoitukset
+/* Kirjoita ohjelma, joka pyytää käyttäjältä 10 suuremman kokonaisluvun (esim. 13) ja
+tulostaa konsoliin esimerkkitapauksessa 13 kertaa:
+13 13 13 13 13 13 13 13 13 13 13 13 13
+13131313131313131313131313
+… (sama 11 kertaa ja lopuksi:)
+13 13 13 13 13 13 13 13 13 13 13 13 13
+13131313131313131313131313 */
+Console.WriteLine("Harjoitus E tehtävä 12");
+Console.WriteLine("Nele Neuhof\n");
+Console.WriteLine("Ole hyvä ja anna 10 suurempi kokonaisluku! ");
+int luku;
+alku:
+Console.WriteLine("Annathan suuremman luvun kun 10,\n");
+try
+{
+    luku = int.Parse(Console.ReadLine());
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+    Console.WriteLine("Luku ei ole sallittu!");
+    goto alku;
+}
+if (luku < 10 || luku <= 10)
+{
+    Console.WriteLine("Ole hyvä ja kokeile uudestaan!\n ");
+        goto alku;
+}
+//int start = 11;
+int end = luku;
+for (int i = 1; i < end;i++ )
+{
+    Console.WriteLine(luku);
+}
+Console.WriteLine();
+goto alku;
