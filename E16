@@ -1,0 +1,16 @@
+# Ohjelmointtikehittaja
+Harjoitukset
+/* Kirjoita ohjelma, joka tulostaa parittomat luvut välillä 1-99  */
+Console.WriteLine("Harjoitus E tehtävä 16");
+Console.WriteLine("Nele Neuhof\n");
+Console.WriteLine("Tässä on parittomat luvut 1-99 asti. \n");
+
+for (int n = 1; n < (99 + 1); n++)
+{
+    if (n % 2 != 0)
+    {
+        Console.Write(n+",");
+    }
+    
+}
+Console.WriteLine("\n\n\n");
