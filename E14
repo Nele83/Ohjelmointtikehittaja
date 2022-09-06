@@ -1,0 +1,43 @@
+# Ohjelmointtikehittaja
+Harjoitukset
+/*Kirjoita ohjelma, joka pyytää kahta kokonaislukua käyttäjältä ja tulostaa joko:
+1. Molemmat ovat positiivisia
+2. Molemmat ovat negatiivisia
+3. Toinen on positiivinen ja toinen negatiivinen
+ */
+Console.WriteLine("Harjoitus E tehtävä 14");
+Console.WriteLine("Nele Neuhof\n");
+int luku, luku1;
+alku:
+Console.WriteLine("Ole hyvä ja anna kaksi kokonaislukua.\n");
+try//tryavulla voit määrittää koodilohkon, joka testataan virheiden varalta sen suorituksen aikana.
+{
+    Console.Write("Ensimmäinen kokonaisluku: ");
+    luku = int.Parse(Console.ReadLine());
+    Console.Write("Toinen kokonaisluku: ");
+    luku1 = int.Parse(Console.ReadLine());
+}
+catch (Exception ex) //catchavulla voit määrittää suoritettavan koodilohkon, jos try-lohkossa tapahtuu virhe.
+{
+    Console.WriteLine("-------------------------------> Antamasi arvo ei ollut kokonaisluku, ole hyvä ja kokeile uudelleen!\n");
+    goto alku;
+}
+if (luku >= 1 && luku1 >= 1)   
+    {
+        Console.WriteLine("Ovat positiiviset. ");
+    }
+    if (luku == 0 && luku1 == 0)
+    {
+        Console.WriteLine("Nolla itse ei ole positiivinen eikä negatiivinen. ");
+        goto alku;
+    }
+    else if(luku <= 1 && luku1 <= 1)
+        {
+        Console.Write("Luvut ovat nekatiiviset!");
+        goto alku;
+        }
+    else
+    {
+        Console.WriteLine("Luvuista toinen on positiivinen ja toinen negatiivinen taikka nolla!");
+        goto alku;
+    }
