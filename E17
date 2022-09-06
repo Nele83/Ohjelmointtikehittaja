@@ -1,0 +1,17 @@
+# Ohjelmointtikehittaja
+Harjoitukset
+/* . Muuta edellistä ohjelmaa siten, että se tulostaa vain 3:lla jaolliset luvut. Edellinen tehtävä oli: 
+ Kirjoita ohjelma, joka tulostaa parittomat luvut välillä 1-99 */
+Console.WriteLine("Harjoitus E tehtävä 17");
+Console.WriteLine("Nele Neuhof\n");
+Console.WriteLine("Tässä on kolmella jailliset luvut 1-99 asti. \n");
+
+for (int n = 1; n < (99 + 1); n++)
+{
+    if (n % 3 == 0)
+    {
+        Console.Write(n + ",");
+    }
+
+}
+Console.WriteLine("\n\n\n");
