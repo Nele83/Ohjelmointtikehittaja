@@ -1,0 +1,27 @@
+# Ohjelmointtikehittaja
+Harjoitukset
+/* Kirjoita ohjelma, joka pyytää käyttäjältä lausetta ja tulostaa ko. lauseen pisimmän
+sanan. Esim. Olipa kerran Onnimanni, Onnimannista Matikka → Onnimannista */
+Console.WriteLine("Harjoitus E tehtävä 15");
+Console.WriteLine("Nele Neuhof\n");
+Console.WriteLine("Ole hyvä ja kirjoita joku lause.\n");
+/*string sana, sana1;
+int mitta;*/
+String jono = Console.ReadLine();
+String[] sanat = jono.Split(new[] { " " }, StringSplitOptions.None);/* StringSplitOptionsmäärittää, sisällytetäänkö palautettavaan 
+* taulukkoon elementti, joka sisältää tyhjän merkkijonon. Määritä Nonekenttä, joka käynnistää String.Split- menetelmän oletuskäyttäytymisen, 
+* joka ei tarkoita välilyöntien leikkaamista ja tyhjien alimerkkijonojen sisällyttämistä.*/
+
+String sana = "";
+    int maara = 0;
+
+foreach (String uusi in sanat) //merkkijono tulostetaan
+{
+    if(uusi.Length > maara)
+    {
+        sana = uusi;
+        maara = uusi.Length;
+    }
+}
+
+Console.WriteLine("Lasuseessa oli kaikista pisin sana: "+sana);
