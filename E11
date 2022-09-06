@@ -1,0 +1,20 @@
+# Ohjelmointtikehittaja
+Harjoitukset
+/* Kirjoita ohjelma, joka kysyy käyttäjän ikää (esim. 25) ja tulostaa konsoliin: ”25 –
+näytät ikäistäsi nuoremmalta”
+ */
+Console.WriteLine("Harjoitus E tehtävä 11");
+Console.WriteLine("Nel Neuhof\n");
+
+int luku;
+Console.Write("Minkä ikäinen olet? ");
+luku = Convert.ToInt32(Console.ReadLine());
+
+if (luku <25)
+{
+    Console.WriteLine("Mitäs nuori mies?");
+}
+else if(luku >=25 )
+{
+    Console.WriteLine("Näytät ikäistäsi nuoremmalta!");
+} 
