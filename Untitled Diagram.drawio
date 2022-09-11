@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T08:28:05.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="pq2NyoB4mVoszllARTl0" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-11T08:30:45.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Y1M3FzrqCm1peNgu4URR" version="20.3.0" type="github">
   <diagram id="o_9UratccnNTIB895HP3" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="10" y="10" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wKo-8l9Y7tnVMGqr3Hxs-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Laitteet&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="150" y="150" width="60" height="20" as="geometry" />
+          <mxGeometry x="160" y="150" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKo-8l9Y7tnVMGqr3Hxs-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -56,7 +56,7 @@
           <mxGeometry x="30" y="210" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-7" value="Raportti" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="240" y="150" width="50" height="20" as="geometry" />
+          <mxGeometry x="250" y="150" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-8" value="Raportti" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="100" height="40" as="geometry" />
@@ -67,13 +67,13 @@
         <mxCell id="PhigeSH-98zZ38pXDgSj-16" value="Päivä kohtainen myynti" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="30" y="405" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wKo-8l9Y7tnVMGqr3Hxs-63" target="wKo-8l9Y7tnVMGqr3Hxs-31">
+        <mxCell id="PhigeSH-98zZ38pXDgSj-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" source="wKo-8l9Y7tnVMGqr3Hxs-63" target="wKo-8l9Y7tnVMGqr3Hxs-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="160" as="sourcePoint" />
             <mxPoint x="180" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wKo-8l9Y7tnVMGqr3Hxs-31" target="PhigeSH-98zZ38pXDgSj-7">
+        <mxCell id="PhigeSH-98zZ38pXDgSj-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" source="wKo-8l9Y7tnVMGqr3Hxs-31" target="PhigeSH-98zZ38pXDgSj-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="160" as="sourcePoint" />
             <mxPoint x="260" y="110" as="targetPoint" />
@@ -331,6 +331,15 @@
             <mxPoint x="160" y="330" as="sourcePoint" />
             <mxPoint x="210" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PhigeSH-98zZ38pXDgSj-84" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="440" as="sourcePoint" />
+            <mxPoint x="710" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhigeSH-98zZ38pXDgSj-85" value="= Yhteydet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="420" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
