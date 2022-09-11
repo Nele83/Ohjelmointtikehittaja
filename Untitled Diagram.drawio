@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T08:41:10.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TLrWnCIDzh3Nn27gxIYn" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-11T08:48:48.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="YA9AlT3k9e2_Xlc571my" version="20.3.0" type="github">
   <diagram id="o_9UratccnNTIB895HP3" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -284,42 +284,42 @@
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-71" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontColor=#FFFFFF;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="344.5" as="sourcePoint" />
-            <mxPoint x="710" y="344.5" as="targetPoint" />
+            <mxPoint x="660" y="390" as="sourcePoint" />
+            <mxPoint x="710" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-72" value="&lt;font color=&quot;#000000&quot;&gt;= Paikan päältä&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="725" y="330" width="90" height="30" as="geometry" />
+        <mxCell id="PhigeSH-98zZ38pXDgSj-72" value="&lt;font color=&quot;#000000&quot;&gt;= Paikan päältä&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="720" y="375" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-73" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontColor=#000000;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="380" as="sourcePoint" />
-            <mxPoint x="710" y="380" as="targetPoint" />
+            <mxPoint x="660" y="419.5" as="sourcePoint" />
+            <mxPoint x="710" y="419.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-74" value="= Verkko myynnit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="725" y="360" width="100" height="30" as="geometry" />
+        <mxCell id="PhigeSH-98zZ38pXDgSj-74" value="= Verkko myynnit" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="405" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-75" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontColor=#000000;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="314.5" as="sourcePoint" />
-            <mxPoint x="710" y="314.5" as="targetPoint" />
+            <mxPoint x="660" y="274.5" as="sourcePoint" />
+            <mxPoint x="710" y="274.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="314.5" />
+              <mxPoint x="680" y="274.5" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-76" value="= Yhtiöjohto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="720" y="300" width="80" height="30" as="geometry" />
+        <mxCell id="PhigeSH-98zZ38pXDgSj-76" value="= Yhtiöjohto" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-77" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontColor=#000000;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="410" as="sourcePoint" />
-            <mxPoint x="710" y="410" as="targetPoint" />
+            <mxPoint x="660" y="364.5" as="sourcePoint" />
+            <mxPoint x="710" y="364.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-78" value="= Hotelli" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="690" y="390" width="120" height="30" as="geometry" />
+        <mxCell id="PhigeSH-98zZ38pXDgSj-78" value="= Hotelli" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-79" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#A50040;strokeWidth=2;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.455;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PhigeSH-98zZ38pXDgSj-16" target="PhigeSH-98zZ38pXDgSj-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -335,15 +335,15 @@
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-84" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="434.5" as="sourcePoint" />
-            <mxPoint x="710" y="434.5" as="targetPoint" />
+            <mxPoint x="660" y="304.5" as="sourcePoint" />
+            <mxPoint x="710" y="304.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="434.5" />
+              <mxPoint x="690" y="304.5" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-85" value="= Yhteydet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="720" y="420" width="80" height="30" as="geometry" />
+        <mxCell id="PhigeSH-98zZ38pXDgSj-85" value="= Yhteydet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-86" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFF00;strokeWidth=2;fontColor=#000000;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="wKo-8l9Y7tnVMGqr3Hxs-71" target="PhigeSH-98zZ38pXDgSj-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -357,6 +357,18 @@
             <mxPoint x="450" y="310" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PhigeSH-98zZ38pXDgSj-88" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFF00;strokeWidth=2;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="334.5" as="sourcePoint" />
+            <mxPoint x="710" y="334.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="334.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhigeSH-98zZ38pXDgSj-89" value="= Yritysryppään johto" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
