@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T07:42:07.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="84heJyFY51uVPh7Q7AGz" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-11T07:44:29.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PcZ8q9oNJRgoCq8EtpIs" version="20.3.0" type="github">
   <diagram id="o_9UratccnNTIB895HP3" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           <mxGeometry x="170" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-9" value="Maksutapahtumat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="390" width="110" height="30" as="geometry" />
+          <mxGeometry x="30" y="370" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-16" value="Päivä kohtainen myynti" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="500" width="100" height="30" as="geometry" />
@@ -103,9 +103,9 @@
             <mxPoint x="80" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.625;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PhigeSH-98zZ38pXDgSj-9" target="wKo-8l9Y7tnVMGqr3Hxs-7">
+        <mxCell id="PhigeSH-98zZ38pXDgSj-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.625;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.455;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PhigeSH-98zZ38pXDgSj-9" target="wKo-8l9Y7tnVMGqr3Hxs-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="340" as="sourcePoint" />
+            <mxPoint x="80" y="410" as="sourcePoint" />
             <mxPoint x="120" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
