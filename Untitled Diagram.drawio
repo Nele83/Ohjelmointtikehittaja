@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T07:04:46.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2PK7g1sERZuivfdLSneO" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T07:07:53.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NmVkdMK0BNE1DeBYfXip" version="20.3.0" type="github">
   <diagram id="o_9UratccnNTIB895HP3" name="Page-1">
     <mxGraphModel dx="1718" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -372,10 +372,10 @@
           <mxGeometry x="700" y="560" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cxN2-gE-vDgpPjRlspKN-9" value="Alennus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="650" width="60" height="20" as="geometry" />
+          <mxGeometry x="705" y="685" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cxN2-gE-vDgpPjRlspKN-10" value="Liput" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="600" width="60" height="20" as="geometry" />
+          <mxGeometry x="710" y="620" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cxN2-gE-vDgpPjRlspKN-15" value="Raportti" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="680" width="90" height="30" as="geometry" />
