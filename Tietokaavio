@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T21:26:00.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fqoq_QYY384yZZgHq0Mp" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T21:30:19.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="EmSMERL7y__WjlJ_oX-a" version="20.3.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1695" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -846,10 +846,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WSIBpuYICIwoTND4aHNS-140" value="Liput" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="720" width="70" height="20" as="geometry" />
+          <mxGeometry x="389" y="730" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WSIBpuYICIwoTND4aHNS-141" value="Varusteet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="780" width="70" height="20" as="geometry" />
+          <mxGeometry x="393" y="770" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WSIBpuYICIwoTND4aHNS-142" value="Osto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="740" width="60" height="20" as="geometry" />
@@ -908,11 +908,27 @@
             <mxPoint x="450" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WSIBpuYICIwoTND4aHNS-158" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WSIBpuYICIwoTND4aHNS-156">
+          <mxGeometry x="-0.7228" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WSIBpuYICIwoTND4aHNS-157" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WSIBpuYICIwoTND4aHNS-112" target="WSIBpuYICIwoTND4aHNS-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="840" as="sourcePoint" />
             <mxPoint x="450" y="790" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WSIBpuYICIwoTND4aHNS-159" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WSIBpuYICIwoTND4aHNS-157">
+          <mxGeometry x="-0.7683" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSIBpuYICIwoTND4aHNS-160" value="Myyntitapahtuma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="810" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WSIBpuYICIwoTND4aHNS-161" value="Maksutapahtuma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="459" y="860" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
