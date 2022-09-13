@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T05:48:23.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="yenwBQCv4dx0kwd7ck4s" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T05:49:54.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="D_gZ9SpkxAdKE85FA7H6" version="20.3.0" type="github">
   <diagram id="o_9UratccnNTIB895HP3" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="30" y="325" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wKo-8l9Y7tnVMGqr3Hxs-18" value="&lt;b&gt;Asiakas&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="210" y="430" width="90" height="20" as="geometry" />
+          <mxGeometry x="230" y="460" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wKo-8l9Y7tnVMGqr3Hxs-21" value="&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Yritysryppään johto&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="610" y="110" width="100" height="30" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="180" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-9" value="Maksutapahtumat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="30" y="375" width="110" height="30" as="geometry" />
+          <mxGeometry x="30" y="380" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhigeSH-98zZ38pXDgSj-16" value="Päivä kohtainen myynti" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="30" y="435" width="100" height="30" as="geometry" />
