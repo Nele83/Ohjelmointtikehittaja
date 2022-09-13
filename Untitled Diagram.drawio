@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T09:42:21.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="ZPPXp7lw-LWaIwZup2rY" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T09:44:51.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="enur66Jh58_85E_vmx3_" version="20.2.8" type="github">
   <diagram id="o_9UratccnNTIB895HP3" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -393,7 +393,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cxN2-gE-vDgpPjRlspKN-16" value="Verkko myynti" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="560" width="90" height="20" as="geometry" />
+          <mxGeometry x="420" y="520" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cxN2-gE-vDgpPjRlspKN-18" value="Asiakas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="600" width="90" height="30" as="geometry" />
@@ -447,7 +447,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cxN2-gE-vDgpPjRlspKN-37" value="Verkko myynnit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="600" width="100" height="30" as="geometry" />
+          <mxGeometry x="80" y="580" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cxN2-gE-vDgpPjRlspKN-43" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=-0.02;entryY=0.38;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="cxN2-gE-vDgpPjRlspKN-16" target="cxN2-gE-vDgpPjRlspKN-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
