@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T09:38:06.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="3c8JmElBwL-gmib3B637" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T09:38:55.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="HMUEy2f9vlAqulJtNPtT" version="20.2.8" type="github">
   <diagram id="o_9UratccnNTIB895HP3" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
             <mxPoint x="120" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="PhigeSH-98zZ38pXDgSj-8" target="wKo-8l9Y7tnVMGqr3Hxs-71" edge="1">
+        <mxCell id="PhigeSH-98zZ38pXDgSj-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="PhigeSH-98zZ38pXDgSj-8" target="wKo-8l9Y7tnVMGqr3Hxs-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="280" as="sourcePoint" />
             <mxPoint x="110" y="230" as="targetPoint" />
@@ -133,7 +133,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-44" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" parent="1" source="wKo-8l9Y7tnVMGqr3Hxs-7" target="PhigeSH-98zZ38pXDgSj-8" edge="1">
+        <mxCell id="PhigeSH-98zZ38pXDgSj-44" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;edgeStyle=orthogonalEdgeStyle;" parent="1" source="wKo-8l9Y7tnVMGqr3Hxs-7" target="PhigeSH-98zZ38pXDgSj-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="300" as="sourcePoint" />
             <mxPoint x="160" y="250" as="targetPoint" />
@@ -180,7 +180,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.111;entryY=-0.05;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="PhigeSH-98zZ38pXDgSj-8" target="wKo-8l9Y7tnVMGqr3Hxs-18" edge="1">
+        <mxCell id="PhigeSH-98zZ38pXDgSj-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.111;entryY=-0.05;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="PhigeSH-98zZ38pXDgSj-8" target="wKo-8l9Y7tnVMGqr3Hxs-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="280" as="sourcePoint" />
             <mxPoint x="410" y="360" as="targetPoint" />
@@ -210,7 +210,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PhigeSH-98zZ38pXDgSj-58" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" parent="1" source="PhigeSH-98zZ38pXDgSj-9" target="PhigeSH-98zZ38pXDgSj-8" edge="1">
+        <mxCell id="PhigeSH-98zZ38pXDgSj-58" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;edgeStyle=orthogonalEdgeStyle;" parent="1" source="PhigeSH-98zZ38pXDgSj-9" target="PhigeSH-98zZ38pXDgSj-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="320" as="sourcePoint" />
             <mxPoint x="180" y="280" as="targetPoint" />
@@ -359,7 +359,7 @@
         <mxCell id="PhigeSH-98zZ38pXDgSj-89" value="= Yritysryppään johto" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="720" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cxN2-gE-vDgpPjRlspKN-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;entryX=0;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="PhigeSH-98zZ38pXDgSj-9" target="wKo-8l9Y7tnVMGqr3Hxs-18" edge="1">
+        <mxCell id="cxN2-gE-vDgpPjRlspKN-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;entryX=0;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="PhigeSH-98zZ38pXDgSj-9" target="wKo-8l9Y7tnVMGqr3Hxs-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="470" as="sourcePoint" />
             <mxPoint x="210" y="420" as="targetPoint" />
