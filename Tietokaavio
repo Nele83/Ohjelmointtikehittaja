@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T05:54:58.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="asbmtX5YGGQ1kOTgv_qk" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T05:55:38.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="A7yn_ghhK1RiONTnPMCx" version="20.3.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1695" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -550,7 +550,7 @@
         <mxCell id="tkQFkkIBJs_azmhLMIFg-154" value="Verkko myynti" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="369" y="450" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tkQFkkIBJs_azmhLMIFg-168" value="Osto" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tkQFkkIBJs_azmhLMIFg-168" value="Osto" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="435" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M73OY-M9zavcu7bkIzTo-0" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tkQFkkIBJs_azmhLMIFg-134" target="z6SYXRdmRWICy5UpNy0--136" edge="1">
@@ -1126,7 +1126,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WSIBpuYICIwoTND4aHNS-190" value="Osto" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WSIBpuYICIwoTND4aHNS-190" value="Osto" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="720" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tkQFkkIBJs_azmhLMIFg-2" value="&lt;b&gt;Yhtiöjohto&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
