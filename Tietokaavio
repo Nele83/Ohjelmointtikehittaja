@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T05:23:24.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5VfGd86xtT_-nsSXih_S" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T05:27:26.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CIQuP77tnqtEPQrSk-p4" version="20.3.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1695" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1027,6 +1027,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WSIBpuYICIwoTND4aHNS-194" value="Tuote" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WSIBpuYICIwoTND4aHNS-156">
+          <mxGeometry x="-0.1733" y="1" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSIBpuYICIwoTND4aHNS-196" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WSIBpuYICIwoTND4aHNS-156">
+          <mxGeometry x="0.6826" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WSIBpuYICIwoTND4aHNS-157" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WSIBpuYICIwoTND4aHNS-112" target="WSIBpuYICIwoTND4aHNS-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="840" as="sourcePoint" />
@@ -1035,6 +1045,16 @@
         </mxCell>
         <mxCell id="WSIBpuYICIwoTND4aHNS-159" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WSIBpuYICIwoTND4aHNS-157">
           <mxGeometry x="-0.7683" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSIBpuYICIwoTND4aHNS-195" value="Tuote" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WSIBpuYICIwoTND4aHNS-157">
+          <mxGeometry x="0.1537" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSIBpuYICIwoTND4aHNS-197" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WSIBpuYICIwoTND4aHNS-157">
+          <mxGeometry x="0.758" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
